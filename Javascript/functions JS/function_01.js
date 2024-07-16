@@ -14,7 +14,7 @@ function elixir(a, y){
     */
    
 }
-console.log(elixir(5,4)) // 14
+console.log(elixir(5,4)) // (14)
 /*
     specifying my 2 parameters (a and y) and print the result in my console.
     especificando meus 2 parâmetros (a e y) e imprimindo o resultado no meu console.
